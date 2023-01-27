@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "socket.io": "^4.5.4"
-  }
+  },
+  "name": "schoology-reactions",
+  "version": "0.0.1",
+  "description": "Adds extra reactions to Schoology",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendomine/Schoology-Reactions.git"
+  },
+  "author": "Ben Domine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bendomine/Schoology-Reactions/issues"
+  },
+  "homepage": "https://github.com/bendomine/Schoology-Reactions#readme"
 }
